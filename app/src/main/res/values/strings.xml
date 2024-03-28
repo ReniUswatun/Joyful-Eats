@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Joyful Eats</string>
+    <string name="profile_developer_icon">Profile Developer</string>
+    <string name="setting_account_icon">Setting Account</string>
+    <string name="feedback_toolbar">Feedback</string>
+    <string name="close_toolbar">Close</string>
+    <string name="back_button">back</string>
+    <string name="description_baso">Bakso adalah makanan Indonesia yang terdiri dari bola daging giling.</string>
+    <string name="letter_to_icon_bakso">Card bakso</string>
+    <string name="letter_to_icon_love">icon love</string>
+    <string name="letter_to_icon_not_love">icon not love</string>
+    <string name="letter_to_icon_ayam_geprek">Card ayam geprek</string>
+    <string name="description_ayam_geprek">Ayam Geprek adalah makanan Indonesia dari ayam goreng digeprek dan diberi sambal pedas.</string>
+    <string name="letter_to_icon_bubur_ayam">Card bubur ayam</string>
+    <string name="description_bubur_ayam">Bubur Ayam adalah hidangan klasik Indonesia yang terdiri dari bubur beras yang lembut.</string>
+    <string name="letter_to_icon_seblak">Card seblak</string>
+    <string name="description_seblak">Seblak adalah makanan khas Indonesia yang terdiri dari kerupuk direbus bersama bumbu pedas.</string>
+    <string name="letter_to_icon_ayam_penyet">Card ayam penyet</string>
+    <string name="description_ayam_penyet">Ayam Penyet adalah hidangan Indonesia dengan ayam goreng disajikan dengan sambal pedas.</string>
+    <string name="letter_to_icon_soto_ayam">Card soto ayam</string>
+    <string name="description_soto_ayam">Soto Ayam adalah sup ayam khas Indonesia dengan kuah kuning rempah-rempah</string>
+    <string name="about_developers">About Developers</string>
+    <string name="developer_profile_description">As an aspiring developer just starting out on my coding journey, I\'m eager to learn and explore the vast world of programming. Join me as I navigate through the intricacies of coding and software development! Follow along on my adventures and projects on Instagram and GitHub. Currently, I\'m honing my skills with this project.</string>
+    <string name="developer_profile_name">Reni Uswatun Hasanah</string>
+    <string name="developer_profile_nim">L0122136</string>
+    <string name="developer_profile_departement">Informatics, 2022</string>
+    <string name="my_instagram_button">My Instagram</string>
+    <string name="my_github_button">My Github</string>
+    <string name="share_my_profile_button">Share My Profile</string>
+
+</resources>
